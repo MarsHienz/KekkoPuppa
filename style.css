@@ -1,0 +1,95 @@
+body{
+
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background-color: #FDFFEE;
+    margin-top: 15px;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+
+
+.lingue{
+   
+    text-align: right;
+    margin: 12px 0px 12px 0px;
+    
+}
+
+.logo{
+    width: 80px;
+    height: 80px;
+    border: 0px;
+    display: flex;
+    
+}
+
+.logo2{
+    width: 80px;
+    height: 80px;
+    border: 0px;
+    display: flex;
+    
+}
+
+.titolo{
+
+    font-size: x-large;
+}
+
+/* Stile generale per la barra di ricerca */
+.search-bar {
+
+    display: flex;
+    align-items: center;
+    float: right;
+   
+  }
+  
+  /* Stile per l'input di ricerca */
+  .search-bar input {
+    
+    border: 10;
+    height: 15px;
+    margin-left: 10px;
+
+  }
+  
+  .index{
+
+    width: 100%;
+    display: flex;
+    border-collapse: separate;
+    justify-content: center;
+    align-items: center;
+        
+  }
+
+  
+  .elenco {
+
+    list-style-type: none;
+    display: table-cell;
+
+  }
+
+  .voci{
+
+    margin: 20px 0px;
+
+  }
+
+
+.listafinale{
+
+    font-size: small;
+}
+
+.background{
+    font-size: small;
+}
+
+p.background {
+    margin-top: 50px;
+    }
